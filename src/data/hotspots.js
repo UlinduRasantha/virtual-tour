@@ -12,4 +12,4 @@ export const sampleHotspots = [
 export const demoHotspots = [{
   id: 'demo-counter-info', title: 'Demo reception counter', position: [-3.3, 1.5, 0.4], maxInteractDistance: 2.5,
   description: 'This is a procedural test object, not your office. Walk toward it to test furniture collision. The open doorway leads to a second test area. Your approved LiDAR scan will replace this entire environment.',
-}];
+}];pp
